@@ -1,14 +1,14 @@
 {
-  "name": "hexo-util-text-r",
+  "name": "hexo-aurora-theme-test",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/whymesay/hexo-util-text-r"
+    "url": "https://github.com/RubbyCherry/hexo-aurora-theme-test"
   },
-  "homepage": "https://github.com/whymesay/hexo-util-text-r#README.md",
+  "homepage": "https://github.com/RubbyCherry/hexo-aurora-theme-test#README.md",
   "description": "Hexo plugin to add auto excerpt on posts with configured number of characters",
   "main": "index.js",
-  "author": "whymesay",
+  "author": "RubbyCherry",
   "license": "MIT",
   "dependencies": {
     "hexo-aurora-auto-excerpt": "^2.9.2",
@@ -20,6 +20,7 @@
     "hexo-aurora-auto-excerpt-util4": "1.0.0",
     "hexo-aurora-auto-excerpt-util5": "1.0.0",
     "hexo-util-text": "1.0.0",
-    "hexo-aurora-theme": "1.0.0"
+    "hexo-aurora-theme": "1.0.0",
+    "hexo-util-text-r": "1.0.0"
   }
 }
